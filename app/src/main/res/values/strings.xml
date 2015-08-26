@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LaunchParty</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_playlists">ListPlaylists</string>
+
+    <string name="hello_world">New Activity has been launched!</string>
+    <string name="title_activity_connect_playlist">ConnectPlaylist</string>
+    <string name="title_activity_list_songs">ListSongs</string>
+    <string name="title_activity_search_results">SearchResults</string>
+</resources>
